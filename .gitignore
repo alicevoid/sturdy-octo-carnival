@@ -21,3 +21,12 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Claude
+.claude-local-storage.json
+.claude-session.json
+.claude-api-keys.json
+./claude
+/claude
+.claude
+
